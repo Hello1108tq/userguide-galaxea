@@ -246,7 +246,7 @@ int main(int argc, char** argv)
     return 0;
 }
 ```
-4. 使用如影片所示:
+4. Usage Example:
 <div style="display: flex; justify-content: center; align-items: center;">
 <video width="1920" height="1080" controls>
   <source src="../assets/A1_End-Effector_Trajectory_Motion.mp4" type="video/mp4">
